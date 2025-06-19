@@ -1,0 +1,5 @@
+Normal text...
+	Tab here!
+Newline\nNext line.
+Special chars: \!@#$%^&*()"
+Unicode: привет, 你好, 🌍
